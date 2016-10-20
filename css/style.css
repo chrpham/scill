@@ -513,7 +513,7 @@ ul.dropdown-menu>li>a:hover {
 	font-size: 14px;
 	font-family: 'Podkova', sans-serif;
 	text-transform: none;
-	color: #6dc5b5;
+	color: #fff;
 	border-radius: 1px;
 	-webkit-border-radius: 0px;
 	-moz-border-radius: 0px;
@@ -525,7 +525,7 @@ ul.dropdown-menu>li>a:hover {
 .btn-primary:hover, .btn-primary:focus {
 	border-color: #dfdfdf;
 	background: none;
-	color: #6dc5b5;
+	color: #fff;
 }
 .btn-info {
 	font-size: 14px;
@@ -543,21 +543,21 @@ ul.dropdown-menu>li>a:hover {
 .btn-info:hover, .btn-info:focus {
 	background-color: #fff;
 	border-color: #fff;
-	color: #6dc5b5 !important;
+	color: #fff !important;
 }
 .btn-default {
 	font-size: 14px;
 	text-transform: none;
 	font-family: 'Podkova', Arial, sans-serif;
 	font-weight: bold;
-	color: #6dc5b5;
+	color: #fff;
 	border-color: #d5a00f;
 	background-color: rgb(9, 72, 150);
 }
 .btn-default:hover, .btn-default:focus {
 	background-color: #d5a00f;
 	border-color: rgba(162, 164, 8, 0.81);
-	color: #6dc5b5;
+	color: #fff;
 }
 button.btn-primary:focus, .btn-default:focus, .btn-info:focus {
 	outline: none;
