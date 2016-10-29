@@ -805,6 +805,9 @@ aside ul li:last-child {
 aside a.btn {
 	margin: 20px 0 40px;
 }
+.sidebar {
+   position: fixed;
+}
 /* Main Content*/
 .main-content h2 {
 	line-height: 11px;
@@ -1310,7 +1313,7 @@ h4 {
 }
 .carousel-inner > .item > img, .carousel-inner > .item > a > img {
 	min-width: 100%;
-	height: auto;
+    height: 75%;
 }
 
 /* Columns */
