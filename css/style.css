@@ -278,8 +278,8 @@ p.smally{
 	color: #6dc5b5;
 }
 p.big-paragraph {
-	font-size: 18px;
-	color: #6dc5b5;
+	font-size: 20px;
+	color: rgb(9, 72, 150);
 	font-family: "Podkova", serif;
 }
 /* grey-info-block */
@@ -835,7 +835,7 @@ footer {
 }
 footer h3 {
 	color: #fff;
-	text-transform: lowercase;
+	text-transform: inherit;
 	padding-bottom: 20px;
 }
 footer hr {
