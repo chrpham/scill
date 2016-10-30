@@ -1234,6 +1234,7 @@ ul.dropdown-menu {
 	opacity: 1;
 	display: none;
 }
+
 .open .dropdown-menu {
 	display: block;
 	visibility: visible;
