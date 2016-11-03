@@ -39,7 +39,7 @@ header.normal {
 	width: 100%;
 	font-weight: 300;
 	text-transform: uppercase;
-	padding: 5px 0 15px 0;
+	padding: 0px 0 15px 0;
 }
 .navbar-default .navbar-brand a { /* SJSU SCILL*/
 	color: #d5a00f;
