@@ -752,6 +752,9 @@ footer .btn.btn-primary {
 	margin-right: 5px;
 	height: 32px;
 }
+.socialicon-linkedin {
+	background: url('../images/social/linkedin.png') no-repeat;
+}
 .socialicon-twitter {
 	background: url('../images/social/twitter.png') no-repeat;
 }
